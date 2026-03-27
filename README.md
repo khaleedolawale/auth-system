@@ -11,11 +11,28 @@ A complete PHP & MySQL authentication system with registration, login, session m
 - Login activity log
 - Input sanitization & SQL injection prevention
 
+## 🚀 Live Demo
+https://auth-system.page.gd/
+
+---
+
+## 💻 GitHub Repository
+https://github.com/khaleedolawale/auth-system
+
 ## Tech Stack
 - PHP
 - MySQL
 - HTML5
 - CSS3
 - JavaScript
+
+---
+
+## 📸 Screenshot
+![Travel Website Preview](auth1.png)
+![Travel Website Preview](auth2.png)
+
+## 📬 Contact
+Feel free to reach out for collaboration, feedback, or inquiries.
 
 ---
